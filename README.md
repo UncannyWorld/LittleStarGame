@@ -2,7 +2,7 @@
 Twinkle twinkle little star game made with unity.
 
 ## The gameplay
-The player has to click the yellow star, each time you get right play a note from the twinkle twinkle little star song.
+The player has to click the yellow star, each time the player gets right a note from the twinkle twinkle little star song will play.
 The score is the time that the player takes to complete the song.
 If you click the wrong place you lose.
 

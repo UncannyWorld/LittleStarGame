@@ -15,5 +15,5 @@ https://play.google.com/store/apps/details?id=com.UncannyWorld.com.TTLS
 
 ## How to run
 1 - On Unity click in Add project <br />
-2 - Select this project folder
+2 - Select this project folder <br />
 3 - When unity finishes opening the project go to **File** > **Build Settings** and **switch platform** to **android**. 

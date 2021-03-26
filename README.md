@@ -14,5 +14,5 @@ https://play.google.com/store/apps/details?id=com.UncannyWorld.com.TTLS
 ![alt text](https://user-images.githubusercontent.com/81381507/112656399-20839200-8e30-11eb-8637-c70110d5a9ef.png)
 
 ## How to run
-1 - On Unity click in Add project
+1 - On Unity click in Add project <br />
 2 - Select this project folder
